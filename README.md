@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luomapet
-- 👀 I’m interested in physics, Computers,fishing
+- 👀 I’m interested in physics, computers,fishing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me JKL Lyseo Uppdrag Sec. School
